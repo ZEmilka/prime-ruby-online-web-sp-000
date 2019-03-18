@@ -1,3 +1,3 @@
-def is_prime?(number)
+def prime?(number)
 
 end
