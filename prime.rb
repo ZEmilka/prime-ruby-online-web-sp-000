@@ -1,6 +1,6 @@
-def prime?(num)
-  (2...num).each do |divisor|
-    if num % divisor == 0
+def prime?(number)
+  (number).each do |prime|
+    if num % prime == 0
       return false
     else
       return true
